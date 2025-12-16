@@ -22,14 +22,3 @@ This project demonstrates the connection between **mathematical probability** an
 **P(A) = favorable outcomes / total outcomes**
 
 ---
-
-## How to Run
-
-Run the `Main` class, enter the number of red and blue balls, and view the probabilities in the console.
-
----
-
-## Author
-
-**Rabab** – AI Science Student
-Building strong foundations in AI, statistics, and programming
